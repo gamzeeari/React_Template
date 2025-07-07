@@ -68,3 +68,5 @@ To add a new page:
 - Extract repetitive code into custom hooks
 - Manage page layouts in layout components
 - Collect API requests in the service layer 
+
+Gamze Ari tarafindan guncellendi.
